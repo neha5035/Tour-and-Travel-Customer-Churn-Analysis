@@ -2,6 +2,8 @@
 
 The objective of the dashboard is to deliver meaningful insights and actionable information about the customers of a tour and travel company and their retention rate.
 
+Tools used: Microsoft Excel, Microsoft Power BI
+
 𝐒𝐭𝐞𝐩𝐬 𝐈𝐧𝐜𝐥𝐮𝐝𝐞𝐬:
 1. Data Cleaning
 2. Data Processing
